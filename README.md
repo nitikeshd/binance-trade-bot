@@ -141,10 +141,6 @@ method, [add a new strategy](binance_trade_bot/strategies/README.md).
 
 Thanks to a group of talented developers, there is now a [Telegram bot for remotely managing this project](https://github.com/lorcalhost/BTB-manager-telegram).
 
-## Support the Project
-
-<a href="https://www.buymeacoffee.com/edeng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 
 ## FAQ
 
